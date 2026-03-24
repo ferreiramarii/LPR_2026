@@ -8,7 +8,7 @@ int main(){
     setlocale(LC_ALL, "pt_BR.UTF-8");
 
     double digitados = 0;
-    list <int> numero;
+    list <int> numeros;
     double acumulador = 0;
     double contador = 0;
 
