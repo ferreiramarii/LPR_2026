@@ -15,5 +15,5 @@ while(i <= quantidade){
     }
     i++;
 }
-  double media = (double)soma / pares;
-  Console.WriteLine($"A média é: {media}");
+    double media = (double)soma / pares;
+    Console.WriteLine($"A média é: {media}");

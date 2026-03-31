@@ -25,5 +25,3 @@ double meses = semanas / 4.5;
 Console.WriteLine($"Horas de treinamento por semana: {horasSem} ");
 Console.WriteLine($"Semanas para chegar em 1000 horas: {semanas} ");
 Console.WriteLine($"Meses para chegar em 1000 horas: {meses} ");
-
-    

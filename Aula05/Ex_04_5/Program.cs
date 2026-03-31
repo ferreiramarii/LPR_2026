@@ -12,7 +12,7 @@ class Program
         long guardaQuadrado = quadrado;
 
         long soma = 0;
-       
+        
         while (guardaQuadrado > 0)
         {
             soma += guardaQuadrado % 10; // Pega o último dígito
