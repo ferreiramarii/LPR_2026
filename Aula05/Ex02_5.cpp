@@ -11,19 +11,20 @@ int main(){
 
     int numero;
     int tentativas = 0;
+
 do {
         cout << "Digite seu chute: ";
-        cin >> chute;
+        cin >> numero;
         tentativas++;
 
         if (numero > valorInteiro) {
-            cout << "Chutou alto! Tente novamente." << endl;
+            cout << "Chutou alto.Tente novamente!" << endl;
         } 
         else if (numero < valorInteiro) {
-            cout << "Chutou baixo! Tente novamente." << endl;
+            cout << "Chutou baixo.Tente novamente!" << endl;
         } 
         else {
-            cout << "Parabens! Voce acertou!" << endl;
+            cout << "Voce acertou!" << endl;
         }
 
     } while (numero != valorInteiro); 
