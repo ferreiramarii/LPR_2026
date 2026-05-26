@@ -8,7 +8,7 @@ A disciplina tem como foco o desenvolvimento da lógica de programação e a con
 
 🛠 Tecnologias Utilizadas
 
-- C#
+ C#
 - C++
 - Git
 - GitHub
@@ -20,21 +20,21 @@ A disciplina tem como foco o desenvolvimento da lógica de programação e a con
 Até o momento, os conteúdos abordados foram:
 
 - Estruturas de seleção
-  - if
-  - else
-  - switch
+ - if
+ - else
+ - switch
 
 - Estruturas de repetição
-  - for
-  - while
-  - do while
+ - for
+ - while
+ - do while
 
 - Funções
-  - Criação de funções
-  - Parâmetros
-  - Retorno de valores
+ - Criação de funções
+ - Parâmetros
+ - Retorno de valores
 
 - Escopo de variáveis
-  - Variáveis locais
-  - Variáveis globais
-  - Tempo de vida das variáveis
+ - Variáveis locais
+ - Variáveis globais
+ - Tempo de vida das variáveis
