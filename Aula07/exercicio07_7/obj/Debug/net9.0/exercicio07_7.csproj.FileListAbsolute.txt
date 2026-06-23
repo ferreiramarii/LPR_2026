@@ -1,0 +1,15 @@
+C:\Users\Alunos\Desktop\LPR_2026\Aula07\exercicio07_7\bin\Debug\net9.0\exercicio07_7.exe
+C:\Users\Alunos\Desktop\LPR_2026\Aula07\exercicio07_7\bin\Debug\net9.0\exercicio07_7.deps.json
+C:\Users\Alunos\Desktop\LPR_2026\Aula07\exercicio07_7\bin\Debug\net9.0\exercicio07_7.runtimeconfig.json
+C:\Users\Alunos\Desktop\LPR_2026\Aula07\exercicio07_7\bin\Debug\net9.0\exercicio07_7.dll
+C:\Users\Alunos\Desktop\LPR_2026\Aula07\exercicio07_7\bin\Debug\net9.0\exercicio07_7.pdb
+C:\Users\Alunos\Desktop\LPR_2026\Aula07\exercicio07_7\obj\Debug\net9.0\exercicio07_7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Desktop\LPR_2026\Aula07\exercicio07_7\obj\Debug\net9.0\exercicio07_7.AssemblyInfoInputs.cache
+C:\Users\Alunos\Desktop\LPR_2026\Aula07\exercicio07_7\obj\Debug\net9.0\exercicio07_7.AssemblyInfo.cs
+C:\Users\Alunos\Desktop\LPR_2026\Aula07\exercicio07_7\obj\Debug\net9.0\exercicio07_7.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Desktop\LPR_2026\Aula07\exercicio07_7\obj\Debug\net9.0\exercicio07_7.sourcelink.json
+C:\Users\Alunos\Desktop\LPR_2026\Aula07\exercicio07_7\obj\Debug\net9.0\exercicio07_7.dll
+C:\Users\Alunos\Desktop\LPR_2026\Aula07\exercicio07_7\obj\Debug\net9.0\refint\exercicio07_7.dll
+C:\Users\Alunos\Desktop\LPR_2026\Aula07\exercicio07_7\obj\Debug\net9.0\exercicio07_7.pdb
+C:\Users\Alunos\Desktop\LPR_2026\Aula07\exercicio07_7\obj\Debug\net9.0\exercicio07_7.genruntimeconfig.cache
+C:\Users\Alunos\Desktop\LPR_2026\Aula07\exercicio07_7\obj\Debug\net9.0\ref\exercicio07_7.dll
