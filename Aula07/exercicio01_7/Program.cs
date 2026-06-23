@@ -8,7 +8,6 @@ class Program
     static void Main()
     {
         int[] numerosDigi = new int[5];
-        int maiorValor = 0;
 
         Console.WriteLine("Digite os 5 numeros:");
         for(int i = 0; i < 5; i++)
