@@ -3,6 +3,7 @@
 #include <iomanip>
 #include <string>
 #include <limits>
+#include <algorithm>
 using namespace std;
 
 //criando struct
@@ -63,4 +64,10 @@ int main(){
         cout << "Ano de lancamento: " << i+1 << ":" << dadosInseridos[i].anoLancamento << endl;
         cout << "Duracao:  " << i+1 << ":" << dadosInseridos[i].duracaoMin << endl;
     }
+    
+    sort(dadosInseridos.begin(), dadosInseridos.end(), [](const Filme& a, const Filme& b) {
+        return a.anoLancamento < b.anoLancamento;
+    });
+
+    cout << "O fime mais antigo e: " << dadosInseridos[0].titulo << ", lancado em: " << dadosInseridos[0].anoLancamento<< endl;
 };
